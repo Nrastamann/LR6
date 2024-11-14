@@ -55,4 +55,4 @@ __История операций__
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/screens/Screenshot_1.jpg)
 
-__Вывод:__ 
+__Вывод:__  Я изучил базовые возможности системы управления версиями, получил опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
