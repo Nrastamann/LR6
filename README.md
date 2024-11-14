@@ -25,6 +25,8 @@ __История операций ветки branch1__
 
 __Merge conflict__
 
+Для решения конфликта было принято решение о слиянии файлов из обоих веток в один общий, после была добавлена еще одна строчка. В качестве визуального редактора был использован Visual studio code.
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/screens/Screenshot_13.jpg)
 
 __Слияние веток__
