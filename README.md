@@ -75,6 +75,16 @@ git switch report - смена ветки на ветку отчета
 ```
 __История операций__
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/screens/Screenshot_1.jpg)
+```
+3d698bd Nrastamann      2024-11-14      Added git commands logs
+ca46160 Nrastamann      2024-11-14      Added some comments to merge coflict step
+60d61d8 Nrastamann      2024-11-14      Added summary
+6a4b545 Nrastamann      2024-11-14      Changed intervals between pics.
+3bc0128 Nrastamann      2024-11-14      Changed some pictures to actual screenshots, changed some titles.
+97e2933 Nrastamann      2024-11-14      Added picture placeholders(for future screenshots)
+8aedd21 Nrastamann      2024-11-14      Started filingl readme
+e0da3b4 Nrastamann      2024-11-14      Added screenshots for LR
+3d698bd Nrastamann      2024-11-14      Added git commands logs
+```
 
 __Вывод:__  Я изучил базовые возможности системы управления версиями, получил опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
